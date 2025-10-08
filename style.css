@@ -4,7 +4,7 @@
   
   --textcolor: #000000;
   --bgcolor: #fff;
-  --highlight: #E05263;
+  --highlight: #1e77eb;
 
 }
 
@@ -12,7 +12,7 @@
   * {
     --textcolor: #ffffff;
     --bgcolor: #222222;
-    --highlight: #E05263;
+    --highlight: #1e77eb;
   }
 }
 
